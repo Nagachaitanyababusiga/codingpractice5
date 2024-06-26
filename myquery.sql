@@ -1,0 +1,1 @@
+select movie_name from movie;
